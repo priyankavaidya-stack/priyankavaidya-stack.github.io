@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6089571.css",
+    "main.js": "/static/js/main.90b513da.js",
+    "static/media/backgroundImage.jpg": "/static/media/backgroundImage.18a6459c0718464870dc.jpg",
+    "static/media/calculator.png": "/static/media/calculator.908add70766e9f29767e.png",
+    "static/media/drawTool.png": "/static/media/drawTool.790f357db6ba3ed076cd.png",
+    "static/media/img.jpg": "/static/media/img.87cf79a04a6cccafc693.jpg",
+    "index.html": "/index.html",
+    "main.a6089571.css.map": "/static/css/main.a6089571.css.map",
+    "main.90b513da.js.map": "/static/js/main.90b513da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6089571.css",
+    "static/js/main.90b513da.js"
+  ]
+}
