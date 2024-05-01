@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2388a25.css",
+    "main.js": "/static/js/main.3ec14a09.js",
+    "static/media/backgroundImage.jpg": "/static/media/backgroundImage.18a6459c0718464870dc.jpg",
+    "static/media/calculator.png": "/static/media/calculator.908add70766e9f29767e.png",
+    "static/media/fixfdImage.png": "/static/media/fixfdImage.d256f6915e722b2c8e63.png",
+    "static/media/drawTool.png": "/static/media/drawTool.790f357db6ba3ed076cd.png",
+    "static/media/pdfSlice.jpg": "/static/media/pdfSlice.52eafbae75ee495f5a8b.jpg",
+    "static/media/img.jpg": "/static/media/img.87cf79a04a6cccafc693.jpg",
+    "index.html": "/index.html",
+    "main.c2388a25.css.map": "/static/css/main.c2388a25.css.map",
+    "main.3ec14a09.js.map": "/static/js/main.3ec14a09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2388a25.css",
+    "static/js/main.3ec14a09.js"
+  ]
+}
